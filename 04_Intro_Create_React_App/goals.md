@@ -4,7 +4,7 @@
 * Use ES2015 midules to share code across files
 * Compare default vs non-default exports
 
-*** Install Create React App ***
+#### Install Create React App
 
 Install Node https://nodejs.org/en/
 
